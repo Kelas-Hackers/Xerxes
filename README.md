@@ -21,4 +21,7 @@ XERXES DoS tool Yang Kuat untuk menDDOS suatu Website
 # $ gcc xerxes.c -o xerxes
 # $ ./xerxes namaweb.com 80
 ```
+```From World```
 <noscript><a href="https://paypal.me/indonimous"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+```From Indonesian```
+<noscript><a href="https://sociabuzz.com/rivalid/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
