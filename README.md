@@ -3,7 +3,7 @@
 # Kelas-Hackers
 
 
-## Jangan lupa Kunjungi : <noscript><a href="https://r-protech.blogspot.com"><img alt="Donate using Liberapay" src="https://r-protech.blogspot.com/2020/09/logo-pro-tech.html"></a></noscript><br/>
+## Jangan lupa Kunjungi : <noscript><a href="https://r-protech.blogspot.com"><img alt="Donate using Liberapay" src="https://1.bp.blogspot.com/-3USBRfJT2W4/X02_zL03xrI/AAAAAAAAACo/bJU8dnJH_Owk6Xpiu3NOIH0xWzPFp9tdgCLcBGAsYHQ/s519/20200901_102714.png"></a></noscript><br/>
 
 XERXES DoS tool Yang Kuat untuk menDDOS suatu Website
 
