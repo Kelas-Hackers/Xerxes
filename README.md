@@ -2,9 +2,9 @@
 
 # Kelas-Hackers
 
-## Jangan lupa Kunjungi :https://r-protech.blogspot.com
 
-## xerxes
+## Jangan lupa Kunjungi : <noscript><a href="https://r-protech.blogspot.com"><img alt="Donate using Liberapay" src="https://r-protech.blogspot.com/2020/09/logo-pro-tech.html"></a></noscript><br/>
+
 XERXES DoS tool Yang Kuat untuk menDDOS suatu Website
 
 ```
